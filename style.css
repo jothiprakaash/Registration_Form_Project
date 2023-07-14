@@ -1,0 +1,48 @@
+body
+{
+    background: pink;
+    text-align: center;
+    
+}
+
+#heading
+{
+    height: 50px;
+    width: 400px;
+    background: linear-gradient(black,grey,white,grey,black);
+    color: blueviolet;
+    margin: auto;
+    margin-top: 40px;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    border-bottom-left-radius: 45%;
+    border-bottom-right-radius: 45%;
+}
+
+form
+{
+    background: black;
+    color: silver;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10%;
+}
+
+.sbody
+{
+    background:lightgreen;
+}
+
+.sdiv
+{
+    height: 50px;
+    width: 800px;
+    background: lightblue;
+    color: red;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 25%;
+
+}
